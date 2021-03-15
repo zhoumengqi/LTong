@@ -14,7 +14,7 @@
 | UNICOM_USER  | 手机号 |
 | UNICOM_PASSWORD  | 服务密码 |    
 #### 依次添加共四项
-![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
+![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)  
 
 #### 添加以上数据之后，进入 actions ，点击绿色长条启用它，   
 ![QQ图片20210301054304](https://user-images.githubusercontent.com/79479594/109433119-1600f300-7a52-11eb-8ad2-0f7739d407c8.png)
